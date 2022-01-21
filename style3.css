@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+  background-color: #61122F;
+  color: white;
+}
+
+.row h1{
+  font-size: bold 30px;
+  text-align: center;
+  color: black;
+}
+
+.content{
+  display: flex;
+  text-align: center;
+  width: auto;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.content .content_name
+{
+  background: grey;
+  margin: 5px;
+  margin-bottom: 50px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  color:black;
+  position: relative;
+}
+
+.content .content_name h3{
+  font-size:30px;
+  /* font-weight:100; */
+  margin-top: 5px;
+}
+
+.navbar{
+border: none;
+background-color: black;
+color: #61122F;
+}
+.glyphicon{
+	font-size: 30px;
+	color: white; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+
+#myNavbar ul li a {
+	color: #61122F;
+}
+
+.row {
+  width: 100%;
+} 
