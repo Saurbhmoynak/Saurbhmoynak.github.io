@@ -1,3 +1,3 @@
 # Saurbhmoynak.github.io
-This is cousera assignment 2
+This is coursera assignment 
 
